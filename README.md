@@ -117,7 +117,7 @@ npm run dev
 The application will run locally on:
 
 ```text
-http://localhost:3000
+http://localhost:5000
 ```
 
 ---
