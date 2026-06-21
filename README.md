@@ -1,4 +1,4 @@
-# Smart Directory App (City Companion)
+# City Companion
 
 A full-stack web application designed to help users discover, explore, and manage city-related services and information efficiently. The platform provides a centralized directory for essential city services with an intuitive and responsive user interface.
 
